@@ -1,0 +1,3 @@
+class Comentario():
+    autor = ""
+    descricao = ""
